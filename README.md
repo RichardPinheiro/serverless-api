@@ -20,7 +20,7 @@ This project was developed with the following technologies:
 
 ### 💻 Set-up your Provider Credentials in AWS
 
-* Create account in [AWS]('https://aws.amazon.com/')
+- Create an account in [AWS]('https://aws.amazon.com/')
 
 ```
 1: Log in your account
