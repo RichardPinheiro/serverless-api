@@ -1,0 +1,19 @@
+{
+  "name": "media-service",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "serverless deploy -v",
+    "dev": "serverless offline",
+    "rm": "serverless remove"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "serverless-offline": "^6.0.0-alpha.68",
+    "yup": "^0.28.3"
+  }
+}
