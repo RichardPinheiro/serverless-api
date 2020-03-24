@@ -25,6 +25,7 @@ This project was developed with the following technologies:
 2) Click in 'Services' search by 'IAM'
 
 3) In 'Access management' click in 'Users':
+    3.1: 'Accept'; Value: 'application/json'
 	3.1) Click; in 'Add user' button
     3.2) Select the Access type 'Programmatic access'
     3.3) Click in 'Next: Permissions' button
