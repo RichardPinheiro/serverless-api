@@ -98,9 +98,9 @@ This project was developed with the following technologies:
     }
 ```
 
-#### To `get file` make a `GET` request to `{APP_URL}/{APP_STAGE}/file/{base_path}/{channel_type}/{channel_id}/{hash file}`
+* To `get file` make a `GET` request to `{APP_URL}/{APP_STAGE}/file/{base_path}/{channel_type}/{channel_id}/{hash file}`
  
-#### The response is a `rendered image`
+* The response is a `rendered image`
  
 
 ### :loudspeaker: How to contribute
