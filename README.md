@@ -52,6 +52,24 @@ This project was developed with the following technologies:
        "mime_type" : "mime_type"
     }
  ```
+ ```
+	{
+        "nickname" : "nickname",
+        "name" : "name",
+        "birthday" : {
+            "day" : number of day,
+            "month" : {
+                "number" : number of month,
+                "name" : name of month
+            }
+        },
+        "phone" : phone number,
+        "squad" : squad,
+        "picture" : "picture.jpg",
+        "backgrounPicture" : "backgrounPicture.jpg",
+        "qrcode" : "qrcode"
+    }
+```
 
 * The response from `upload` is:
 
