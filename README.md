@@ -20,14 +20,11 @@ This project was developed with the following technologies:
 
 ## 💻 Set-up your Provider Credentials in AWS
 ```
-3) Click on 'Headers' and add one param:
-	3.1) Key: 'Accept' Value: 'application/json'
+1) Create account in AWS;
 
-1) Create account in AWS
+2) Click in 'Services' search by 'IAM';
 
-2) Click in 'Services' search by 'IAM'
-
-3) In 'Access management' click in 'Users':
+3) In 'Access management' click in 'Users'
 	3.1) Click in 'Add user' button
     3.2) Select the Access type 'Programmatic access'
     3.3) Click in 'Next: Permissions' button
