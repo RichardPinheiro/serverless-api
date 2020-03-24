@@ -24,7 +24,7 @@ This project was developed with the following technologies:
 
 * [Install yarn](https://classic.yarnpkg.com/en/docs/install)
 
-### Set-up your Provider Credentials in AWS :key:
+### :key: Set-up your Provider Credentials in AWS
 
 * Create an account in [AWS](https://aws.amazon.com/)
 
@@ -51,7 +51,7 @@ This project was developed with the following technologies:
 8: Click in 'close' button
 ```
 
-### Set-up your User in Serverless :key:
+### :wrench: Set-up your User in Serverless
 
 * **run:** `$ yarn add serverless -g`
 
