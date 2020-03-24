@@ -111,7 +111,7 @@ This project was developed with the following technologies:
 
 ### :loudspeaker: How to contribute
 
-- Clone this repository;
+- Clone this repository: `git clone git@bitbucket.org:newway-ondemand/media-service.git`
 - Create a branch with your feature: `git checkout -b my-feature`
 - Commit your changes: `git commit -m 'my new feature'`
 - Push to your branch: `git push origin my-feature`
