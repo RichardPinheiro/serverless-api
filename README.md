@@ -14,7 +14,7 @@ This project was developed with the following technologies:
 - [AWS S3](https://aws.amazon.com/s3/)
 
 
-### :memo: Project Functional resources
+### :pencil: Project Functional resources
 * Upload media to S3
 * Get media from S3
 
@@ -51,7 +51,7 @@ This project was developed with the following technologies:
 8: Click in 'close' button
 ```
 
-### :wrench: Set-up your User in Serverless
+### :gear: Set-up your User in Serverless
 
 * **run:** `$ yarn add serverless -g`
 
