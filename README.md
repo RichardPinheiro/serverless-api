@@ -75,7 +75,7 @@ This project was developed with the following technologies:
 * **run:** `$ yarn run rm` for serverless remove
 
 
-### :gear: Requets to lambda service
+### :outbox_tray: Requets to lambda service
 
 * To `upload file` make a `POST` request to `{APP_URL}/{APP_STAGE}/upload` with body:
 
