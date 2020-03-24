@@ -1,4 +1,4 @@
-# Media Service
+# :cyclone: Media Service
 
 ## A serverless application for sending media
 
