@@ -19,8 +19,11 @@ This project was developed with the following technologies:
 * Get media from s3
 
 ### 💻 Set-up your Provider Credentials in AWS
+
+* Create account in [AWS]('https://aws.amazon.com/')
+
 ```
-1: Create account in AWS 'https://aws.amazon.com/'
+1: Log in your account
 
 2: Click in 'Services' search by 'IAM'
 
@@ -29,12 +32,29 @@ This project was developed with the following technologies:
     3.2: Select the Access type 'Programmatic access'
     3.3: Click in 'Next: Permissions' button
 
-4) Click in 'Services' search by 'IAM'
+4: Click in 'Attach existing policies directly'
+    4.1: Select 'AdministratorAccess'
+    4:2: Click in 'Next Tags' button
+
+5: In Add tags (optional) Click in 'Next: Review' button
+
+6: In 'Review' Click in 'Create User' button
+
+7: Copy 'Access key ID' and 'Secret access key' keep it with you
+
+8: Click in 'close' button
 ```
 
-### 💻 Run Project
+### 💻 Set-up your User in Serverless
 
 * [Install yarn](https://classic.yarnpkg.com/en/docs/install)
+
+* **run:** `$ yarn add serverless -g`
+
+* **run:** `serverless config credentials --provider aws --key {Access key ID} --secret {Secret access key}`
+
+
+### 💻 Run Project
 
 * **run:** `$ yarn` for install dependencies
 
