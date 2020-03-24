@@ -18,9 +18,9 @@ This project was developed with the following technologies:
 * Upload media to s3
 * Get media from s3
 
-## 🔥 Quick Start
+## :rocket: Quick Start
 
-### 💻 Set-up your Provider Credentials in AWS
+### Set-up your Provider Credentials in AWS
 
 * Create an account in [AWS](https://aws.amazon.com/)
 
