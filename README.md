@@ -23,8 +23,6 @@ This project was developed with the following technologies:
 3) Click on 'Headers' and add one param:
 	3.1) Key: 'Accept'; Value: 'application/json'
 
-4) Click on 'Body', select 'raw':
-
 1) Create account in AWS
 
 2) Click in 'Services' search by 'IAM'
