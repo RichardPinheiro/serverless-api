@@ -19,7 +19,7 @@ This project was developed with the following technologies:
 * Get media from s3
 
 
-### 💻 To run this project
+### 💻 Run Project
 
 * [Install yarn](https://classic.yarnpkg.com/en/docs/install)
 
