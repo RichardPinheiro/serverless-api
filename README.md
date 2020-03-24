@@ -12,6 +12,7 @@ This project was developed with the following technologies:
 - [AWS Lambda](https://aws.amazon.com/lambda/?nc1=h_ls)
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/?nc1=h_ls)
 - [AWS S3](https://aws.amazon.com/s3/)
+- [AWS]('https://aws.amazon.com/')
 
 
 ### 💻 Project Functional resources
