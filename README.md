@@ -51,7 +51,7 @@ This project was developed with the following technologies:
 8: Click in 'close' button
 ```
 
-### :gear: Set-up your User in Serverless
+### :wrench: Set-up your User in Serverless
 
 * **run:** `$ yarn add serverless -g`
 
@@ -75,7 +75,7 @@ This project was developed with the following technologies:
 * **run:** `$ yarn run rm` for serverless remove
 
 
-### 💻 Requets to lambda service
+### :gear: Requets to lambda service
 
 #### To `upload file` make a `POST` request to `{APP_URL}/{APP_STAGE}/upload` with body:
 
