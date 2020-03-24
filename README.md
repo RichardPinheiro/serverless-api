@@ -20,8 +20,6 @@ This project was developed with the following technologies:
 
 ## 💻 Set-up your Provider Credentials in AWS
 ```
-1) Select 'POST' request
-
 2) Enter the URL: http://localhost:8080/api/person/save
 
 3) Click on 'Headers' and add one param:
