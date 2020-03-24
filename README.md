@@ -1,6 +1,6 @@
 # :cyclone: Media Service
 
-## A serverless application for sending media
+## A serverless application
 
 
 ### 💻 Technologies
