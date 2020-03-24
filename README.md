@@ -20,7 +20,7 @@ This project was developed with the following technologies:
 
 ## :rocket: Quick Start
 
-### Set-up your Provider Credentials in AWS
+### 💻 Set-up your Provider Credentials in AWS
 
 * Create an account in [AWS](https://aws.amazon.com/)
 
@@ -101,7 +101,7 @@ This project was developed with the following technologies:
 #### The response is a `rendered image`
  
 
-### How to contribute
+### :fire: How to contribute
 
 - Clone this repository;
 - Create a branch with your feature: `git checkout -b my-feature`
