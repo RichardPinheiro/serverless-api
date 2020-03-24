@@ -45,11 +45,11 @@ This project was developed with the following technologies:
  ```
 	{
        "data":"base64",
-       "base_path": "{base_path}",
-       "channel_type": "{channel_type}",
-       "channel_id": "{channel_id}",
-       "filename": "{filename}",
-       "mime_type": "{mime_type}"
+       "base_path": "base_path",
+       "channel_type": "channel_type",
+       "channel_id": "channel_id",
+       "filename": "filename",
+       "mime_type": "mime_type"
     }
 ```
 
