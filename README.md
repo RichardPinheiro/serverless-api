@@ -43,6 +43,7 @@ This project was developed with the following technologies:
 * To `upload file` make a `POST` request to `{APP_URL}/{APP_STAGE}/upload` with body:
 
  ```
+ ```
 	{
        "data" : "base64",
        "base_path" : "base_path",
@@ -52,27 +53,10 @@ This project was developed with the following technologies:
        "mime_type" : "mime_type"
     }
  ```
- ```
-	{
-        "nickname" : "nickname",
-        "name" : "name",
-        "birthday" : {
-            "day" : number of day,
-            "month" : {
-                "number" : number of month,
-                "name" : name of month
-            }
-        },
-        "phone" : phone number,
-        "squad" : squad,
-        "picture" : "picture.jpg",
-        "backgrounPicture" : "backgrounPicture.jpg",
-        "qrcode" : "qrcode"
-    }
-```
 
 * The response from `upload` is:
 
+ ```
  ```
    {
        "url": "{APP_URL}/{APP_STAGE}/file/{base_path}/{channel_type}/{channel_id}/{hash file}
