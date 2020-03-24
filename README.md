@@ -14,7 +14,7 @@ This project was developed with the following technologies:
 - [AWS S3](https://aws.amazon.com/s3/)
 
 
-### :scroll: Project Functional resources
+### :memo: Project Functional resources
 * Upload media to S3
 * Get media from S3
 
