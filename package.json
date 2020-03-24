@@ -13,6 +13,7 @@
     "crypto": "^1.0.1",
     "dotenv": "^8.2.0",
     "jsonwebtoken": "^8.5.1",
+    "serverless": "^1.67.0",
     "serverless-offline": "^6.0.0-alpha.68",
     "yup": "^0.28.3"
   }
