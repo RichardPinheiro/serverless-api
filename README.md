@@ -51,15 +51,15 @@ This project was developed with the following technologies:
        "filename": "filename",
        "mime_type": "mime_type"
     }
-```
+ ```
 
 * The response from `upload` is:
 
-```
+ ```
    {
        "url": "{APP_URL}/{APP_STAGE}/file/{base_path}/{channel_type}/{channel_id}/{hash file}
    }
-```
+ ```
 
  
  * To `get file` make a `GET` request to `{APP_URL}/{APP_STAGE}/file/{base_path}/{channel_type}/{channel_id}/{hash file}`
