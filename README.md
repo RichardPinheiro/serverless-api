@@ -20,7 +20,7 @@ This project was developed with the following technologies:
 
 ### 💻 Set-up your Provider Credentials in AWS
 ```
-1: Create account in [AWS](https://aws.amazon.com/)
+1: Create account in AWS 'https://aws.amazon.com/'
 
 2: Click in 'Services' search by 'IAM'
 
