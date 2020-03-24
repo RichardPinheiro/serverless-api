@@ -40,13 +40,8 @@ This project was developed with the following technologies:
 
 ### 💻 Requets to lambda service
 
-```
-1) To 'upload' 'file' make a 'POST' request to '{APP_URL}/{APP_STAGE}/upload' with body:
+1) To ```upload file``` make a ```POST``` request to ```{APP_URL}/{APP_STAGE}/upload``` with body:
 
-2) Enter the URL: http://localhost:8080/api/person/save
-
-4) Click on 'Body', select 'raw':
-```
 ```
     {
         "data" : "base64",
