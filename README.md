@@ -40,7 +40,7 @@ This project was developed with the following technologies:
 
 ### 💻 Requets to lambda service
 
-* To 'upload file' make a 'POST' request to '{APP_URL}/{APP_STAGE}/upload' with body:
+``` To 'upload file' make a 'POST' request to '{APP_URL}/{APP_STAGE}/upload' with body:```
 
 ```
     {
