@@ -21,7 +21,7 @@ This project was developed with the following technologies:
 ## 💻 Set-up your Provider Credentials in AWS
 ```
 3) Click on 'Headers' and add one param:
-	3.1) Key: 'Accept'; Value: 'application/json'
+	3.1) Key: 'Accept' Value: 'application/json'
 
 1) Create account in AWS
 
