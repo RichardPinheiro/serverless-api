@@ -20,6 +20,10 @@ This project was developed with the following technologies:
 
 ## :rocket: Quick Start
 
+#### First step 
+
+* [Install yarn](https://classic.yarnpkg.com/en/docs/install)
+
 ### Set-up your Provider Credentials in AWS :key:
 
 * Create an account in [AWS](https://aws.amazon.com/)
@@ -48,8 +52,6 @@ This project was developed with the following technologies:
 ```
 
 ### Set-up your User in Serverless :key:
-
-* [Install yarn](https://classic.yarnpkg.com/en/docs/install)
 
 * **run:** `$ yarn add serverless -g`
 
