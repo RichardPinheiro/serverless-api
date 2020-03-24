@@ -101,9 +101,9 @@ This project was developed with the following technologies:
 * To `get file` make a `GET` request to `{APP_URL}/{APP_STAGE}/file/{base_path}/{channel_type}/{channel_id}/{hash file}`
 
 ```
-    Prod example: https://v314414blh.execute-api.us-east-1.amazonaws.com/prod/file/wa_attachment/waweb/4/c373d84a5d5261bf51599124da87eb37.jpg
+        Prod example: https://v314414blh.execute-api.us-east-1.amazonaws.com/prod/file/wa_attachment/waweb/4/c373d84a5d5261bf51599124da87eb37.jpg
 
-    Dev example: http://localhost:3000/dev/file/wa_attachment/waweb/4/c373d84a5d5261bf51599124da87eb37.jpg
+        Dev example: http://localhost:3000/dev/file/wa_attachment/waweb/4/c373d84a5d5261bf51599124da87eb37.jpg
 ```
  
 * The response is a `rendered file`
