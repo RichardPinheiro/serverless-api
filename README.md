@@ -44,11 +44,6 @@ This project was developed with the following technologies:
 1) To 'upload' 'file' make a 'POST' request to '{APP_URL}/{APP_STAGE}/upload' with body:
 
 2) Enter the URL: http://localhost:8080/api/person/save
-
-3) Click on 'Headers' and add one param:
-	3.1) Key: 'Accept'; Value: 'application/json'
-
-4) Click on 'Body', select 'raw':
 ```
 ```
     {
