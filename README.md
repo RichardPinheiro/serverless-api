@@ -20,7 +20,7 @@ This project was developed with the following technologies:
 
 ## :rocket: Quick Start
 
-### 💻 Set-up your Provider Credentials in AWS
+### :key: Set-up your Provider Credentials in AWS
 
 * Create an account in [AWS](https://aws.amazon.com/)
 
@@ -47,7 +47,7 @@ This project was developed with the following technologies:
 8: Click in 'close' button
 ```
 
-### 💻 Set-up your User in Serverless
+### :key: Set-up your User in Serverless
 
 * [Install yarn](https://classic.yarnpkg.com/en/docs/install)
 
@@ -101,7 +101,7 @@ This project was developed with the following technologies:
 #### The response is a `rendered image`
  
 
-### :fire: How to contribute
+### :loudspeaker: How to contribute
 
 - Clone this repository;
 - Create a branch with your feature: `git checkout -b my-feature`
