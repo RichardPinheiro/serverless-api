@@ -1,7 +1,18 @@
-# :cyclone: Media Service
+<h1 align="center">
+    :cyclone: Media Service
+</h1>
 
-## A serverless application to media in AWS stack
+<h4 align="center">
+    A serverless application to media in AWS stack
+</h4>
 
+<p align="center">
+    <a href="#tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#How-to-contribute">How to contribute</a>
+</p>
+
+<br>
 
 ### 💻 Technologies
 
@@ -30,28 +41,26 @@ This project was developed with the following technologies:
 
 * Create an account in [AWS](https://aws.amazon.com/)
 
-```
 1: Log in your account
 
-2: Click in 'Services' search by 'IAM'
+2: Click in `Services` search by `IAM`
 
-3: In 'Access management' click in 'Users'
-	3.1: Click in 'Add user'
-    3.2: Select the Access type 'Programmatic access'
-    3.3: Click in 'Next: Permissions' button
+3: In `Access management` click in `Users`
+    3.1: Click in `Add user`
+    3.2: Select the Access type `Programmatic access`
+    3.3: Click in `Next: Permissions` button
 
-4: Click in 'Attach existing policies directly'
-    4.1: Select 'AdministratorAccess'
-    4:2: Click in 'Next Tags' button
+4: Click in `Attach existing policies directly`
+    4.1: Select `AdministratorAccess`
+    4:2: Click in `Next Tags` button
 
-5: In Add tags (optional) Click in 'Next: Review' button
+5: In Add tags (optional) Click in `Next: Review` button
 
-6: In 'Review' Click in 'Create User' button
+6: In `Review` Click in `Create User` button
 
-7: Copy 'Access key ID' and 'Secret access key' keep it with you
+7: Copy `Access key ID` and `Secret access key` keep it with you
 
-8: Click in 'close' button
-```
+8: Click in `close` button
 
 ### :wrench: Set-up your User Credentials in Serverless
 
@@ -105,8 +114,15 @@ This project was developed with the following technologies:
 
 ### :loudspeaker: How to contribute
 
-- Clone this repository: `git clone git@bitbucket.org:newway-ondemand/media-service.git`
+- Fork this repository
 - Create a branch with your feature: `git checkout -b my-feature`
 - Commit your changes: `git commit -m 'my new feature'`
 - Push to your branch: `git push origin my-feature`
 - Open a pull request
+
+After the merge of your pull request is done, you can delete your branch.
+
+
+## Authors
+
+* **Richard Pinheiro** - [GitHub](https://github.com/RichardPinheiro)
