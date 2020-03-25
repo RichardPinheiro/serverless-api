@@ -1,5 +1,5 @@
 <h1 align="center">
-    :cyclone: Lambda Serverless 
+    :cyclone: Serverless API
 </h1>
 
 <h4 align="center">
