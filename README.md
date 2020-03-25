@@ -1,6 +1,6 @@
 # :cyclone: Media Service
 
-## A serverless application
+## A serverless application to media in AWS stack
 
 
 ### 💻 Technologies
