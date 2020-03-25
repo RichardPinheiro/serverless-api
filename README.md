@@ -24,6 +24,8 @@ This project was developed with the following technologies:
 
 * [Install yarn](https://classic.yarnpkg.com/en/docs/install)
 
+* **run:** `$ yarn` for install dependencies
+
 ### :key: Set-up your Provider Credentials in AWS
 
 * Create an account in [AWS](https://aws.amazon.com/)
@@ -59,8 +61,6 @@ This project was developed with the following technologies:
 
 
 ### 💻 Run Project
-
-* **run:** `$ yarn` for install dependencies
 
 * **and run:** `$ yarn run dev` to serverless offline
 
