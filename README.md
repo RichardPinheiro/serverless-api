@@ -18,11 +18,11 @@
 
 This project was developed with the following technologies:
 
-- [Serverless Stack](https://serverless.com/)
-- [NodeJS](https://nodejs.org/en/)
 - [AWS Lambda](https://aws.amazon.com/lambda/?nc1=h_ls)
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/?nc1=h_ls)
 - [AWS S3](https://aws.amazon.com/s3/)
+- [Serverless Stack](https://serverless.com/)
+- [NodeJS](https://nodejs.org/en/)
 
 
 ### :pencil: Project Functional resources
