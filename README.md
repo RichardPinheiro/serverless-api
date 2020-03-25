@@ -7,9 +7,10 @@
 </h4>
 
 <p align="center">
-    <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#How-to-contribute">How to contribute</a>
+    <a href="#tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#quick-start">Quick Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#requets-to-lambda-service">Requets to lambda service</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#how-to-contribute">How to contribute</a>
 </p>
 
 <br>
@@ -41,26 +42,26 @@ This project was developed with the following technologies:
 
 * Create an account in [AWS](https://aws.amazon.com/)
 ```
-    1: Log in your account
+1: Log in your account
 
-    2: Click in `Services` search by `IAM`
+2: Click in `Services` search by `IAM`
 
-    3: In `Access management` click in `Users`
-        3.1: Click in `Add user`
-        3.2: Select the Access type `Programmatic access`
-        3.3: Click in `Next: Permissions` button
+3: In `Access management` click in `Users`
+    3.1: Click in `Add user`
+    3.2: Select the Access type `Programmatic access`
+    3.3: Click in `Next: Permissions` button
 
-    4: Click in `Attach existing policies directly`
-        4.1: Select `AdministratorAccess`
-        4:2: Click in `Next Tags` button
+4: Click in `Attach existing policies directly`
+    4.1: Select `AdministratorAccess`
+    4:2: Click in `Next Tags` button
 
-    5: In Add tags (optional) Click in `Next: Review` button
+5: In Add tags (optional) Click in `Next: Review` button
 
-    6: In `Review` Click in `Create User` button
+6: In `Review` Click in `Create User` button
 
-    7: Copy `Access key ID` and `Secret access key` keep it with you
+7: Copy `Access key ID` and `Secret access key` keep it with you
 
-    8: Click in `close` button
+8: Click in `close` button
 ```
 
 ### :wrench: Set-up your User Credentials in Serverless
