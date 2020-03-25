@@ -82,9 +82,9 @@ This project was developed with the following technologies:
 ```
     {
         "data": "{base64}",
-        "base_path": "{base_path}",
-        "channel_type": "{channel_type}",
-        "channel_id": "{channel_id}",
+        "path": "{path}",
+        "type": "{type}",
+        "id": "{id}",
         "filename": "{filename}",
         "mime_type": "{mime_type}"
     }
@@ -94,17 +94,11 @@ This project was developed with the following technologies:
 
 ```
     {
-        "url": "{APP_URL}/{APP_STAGE}/file/{base_path}/{channel_type}/{channel_id}/{hash file}
+        "url": "{APP_URL}/{APP_STAGE}/file/{path}/{type}/{id}/{hash file}
     }
 ```
 
-* To `get file` make a `GET` request to `{APP_URL}/{APP_STAGE}/file/{base_path}/{channel_type}/{channel_id}/{hash file}`
-
-```
-    Prod example: https://v314414blh.execute-api.us-east-1.amazonaws.com/prod/file/wa_attachment/waweb/4/c373d84a5d5261bf51599124da87eb37.jpg
-
-    Dev example: http://localhost:3000/dev/file/wa_attachment/waweb/4/c373d84a5d5261bf51599124da87eb37.jpg
-```
+* To `get file` make a `GET` request to `{APP_URL}/{APP_STAGE}/file/{path}/{type}/{id}/{hash file}`
  
 * The response from `GET` is a `rendered file`
  
