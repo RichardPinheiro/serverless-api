@@ -1,5 +1,5 @@
 <h1 align="center">
-    :cyclone: Media Service
+    :cyclone: Lambda Service
 </h1>
 
 <h4 align="center">
