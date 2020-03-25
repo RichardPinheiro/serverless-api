@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-    A serverless application to media in AWS stack
+    A serverless application to media with AWS stack
 </h4>
 
 <p align="center">
