@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-    <a href="#tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#How-to-contribute">How to contribute</a>
 </p>
@@ -40,7 +40,7 @@ This project was developed with the following technologies:
 ### :key: Set-up your Provider Credentials in AWS
 
 * Create an account in [AWS](https://aws.amazon.com/)
-
+```
 1: Log in your account
 
 2: Click in `Services` search by `IAM`
@@ -61,6 +61,7 @@ This project was developed with the following technologies:
 7: Copy `Access key ID` and `Secret access key` keep it with you
 
 8: Click in `close` button
+```
 
 ### :wrench: Set-up your User Credentials in Serverless
 
