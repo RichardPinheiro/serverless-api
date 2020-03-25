@@ -51,7 +51,7 @@ This project was developed with the following technologies:
 8: Click in 'close' button
 ```
 
-### :wrench: Set-up your User in Serverless
+### :wrench: Set-up your User Credentials in Serverless
 
 * **run:** `$ yarn add serverless -g`
 
