@@ -42,3 +42,14 @@ functions:
       - http:
           path: upload
           method: post
+
+resources:
+  Resources:
+    Bucket:
+      Type: AWS::S3::Bucket
+      Properties:
+        BucketName: my-example-bucket
+        AccessControl: PublicReadWrite
+        WebsiteConfiguration:
+          IndexDocument: index.html
+          ErrorDocument: error.html
