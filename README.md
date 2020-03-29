@@ -1,5 +1,5 @@
 <h1 align="center">
-    :cyclone: Serverless API
+    :zap: Serverless API
 </h1>
 
 <h4 align="center">
