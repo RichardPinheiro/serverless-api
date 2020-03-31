@@ -40,6 +40,8 @@ This project was developed with the following technologies:
 
 ### :key: Set-up your Provider Credentials in AWS
 
+* If you already have an account, you can use your **{Access key ID}** and **{Secret access key}**
+
 * Create an account in [AWS](https://aws.amazon.com/)
 ```
 1: Log in your account
