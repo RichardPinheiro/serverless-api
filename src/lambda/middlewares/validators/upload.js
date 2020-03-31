@@ -10,11 +10,11 @@ module.exports = {
 
             const schema = Yup.object().shape({
                 data: Yup.string().required(),
-                base_path: Yup.string().required(),
-                channel_type:  Yup.string().required(),
-                channel_id:  Yup.string().required(),
-                filename:  Yup.string().required(),
-                mime_type:  Yup.string().required()
+                path: Yup.string().required(),
+                type: Yup.string().required(),
+                id: Yup.string().required(),
+                filename: Yup.string().required(),
+                mime_type: Yup.string().required()
             })
 
             await schema.validate(body, { abortEarly: false })
